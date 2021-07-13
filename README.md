@@ -1,3 +1,3 @@
-# Curso_Java_Completo_Nelio_Alves
+# Complete Java Course - Prof. Dr. Nelio Alves
 
-Alguns dos exercicios resolvidos do [Curso de Java Completo do Prof. Nelio Alves](https://www.udemy.com/course/java-curso-completo/).
+Some exercises of [Complete Java Course - Prof. Dr. Nelio Alves](https://www.udemy.com/course/java-curso-completo/).
