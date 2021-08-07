@@ -40,8 +40,8 @@ public class Program {
               }
 
               System.out.print("SHAPE AREAS: \n");
-              for (Shape shape: shapeList){
-                     System.out.printf("%.2f \n",shape.area());
+              for (Shape shape: shapeList) {
+                     System.out.printf("%.2f \n", shape.area());
               }
 
               sc.close();
